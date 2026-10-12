@@ -185,7 +185,7 @@ Building damage assessment, antenna gain prediction, and evidence-grounded AI.
 
 Hanbat National University · Prof. Haneol Jang
 
-**Languages** · Korean (native) · English (intermediate)
+**Languages** · Korean (native) · English — **TOEIC Speaking IM3**
 
 </details>
 
