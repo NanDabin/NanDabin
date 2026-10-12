@@ -4,7 +4,6 @@
 <text x="48" y="45" fill="#555650" font-size="13" letter-spacing="3">AI RESEARCHER / DEVELOPER</text>
 <text x="40" y="165" fill="#171917" font-size="116" font-weight="700" letter-spacing="-7">Dabin Kim<tspan fill="#3454ee">.</tspan></text>
 <text x="48" y="208" fill="#555650" font-size="21" letter-spacing="-.35">Computer vision. Remote sensing. Grounded AI.</text>
-<path d="M1048 65V151M1005 108H1091M1018 78L1078 138M1018 138L1078 78" stroke="#3454ee" stroke-width="17"/>
 <path d="M48 240H1152" stroke="#d4d4cc"/>
 <text x="48" y="266" fill="#60625b" font-size="12" letter-spacing="1.5">AIM LAB. / HANBAT NATIONAL UNIVERSITY</text>
 <text x="1152" y="266" text-anchor="end" fill="#60625b" font-size="12" letter-spacing="1.5">DAEJEON, KR</text>
