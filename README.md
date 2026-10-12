@@ -177,24 +177,34 @@ Building damage assessment, antenna gain prediction, and evidence-grounded AI.
 - **M.S.** · March 2026 — Present  
   GPA **4.5 / 4.5**
 
-<details>
-<summary><strong>📖 Teaching assistant & languages</strong></summary>
+### 📖 Teaching assistant
 
 - **Artificial Intelligence** · March–June 2026
 - **Computer Vision** · September–December 2026
 
-Hanbat National University · Prof. Haneol Jang
+<sub>Hanbat National University · Prof. Haneol Jang</sub>
 
-**Languages** · Korean (native) · English — **TOEIC Speaking IM3**
+### 🌐 Languages
 
-</details>
+**Korean** · Native  
+**English** · **TOEIC Speaking IM3**
 
 ---
 
+<h2 align="center">💬 Connect with me</h2>
+
 <p align="center">
-  <strong>Thanks for stopping by!</strong><br />
-  <sub>Interested in computer vision or applied AI? Let's connect.</sub><br /><br />
-  <a href="mailto:30261236@edu.hanbat.ac.kr">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EA%B9%80-0749b043b/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="./assets/Dabin_Kim_CV.pdf">Full CV</a>
+  Research collaborations, project ideas, and conversations about AI.<br />
+  <sub>Computer Vision &nbsp;·&nbsp; Remote Sensing &nbsp;·&nbsp; Applied AI</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:30261236@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Email%20me-4065B1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="32" alt="Email me" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EA%B9%80-0749b043b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="32" alt="Connect on LinkedIn" /></a>&nbsp;
+  <a href="./assets/Dabin_Kim_CV.pdf"><img src="https://img.shields.io/badge/Explore%20my%20CV-3E4654?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" height="32" alt="Explore my CV" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:30261236@edu.hanbat.ac.kr">30261236@edu.hanbat.ac.kr</a><br />
+  <sub>AIM Lab. · Hanbat National University · Daejeon, Republic of Korea</sub>
 </p>
