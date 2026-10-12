@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=3" width="100%" alt="Dabin Kim | AI Researcher & Developer | Computer Vision, Remote Sensing, Grounded AI" />
+  <img src="https://raw.githubusercontent.com/NanDabin/NanDabin/123a995c76014ae514229a9e609c9c2401430940/assets/header.svg" width="100%" alt="Dabin Kim | AI Researcher & Developer | Computer Vision, Remote Sensing, Grounded AI" />
 </p>
 
 <p align="center">
