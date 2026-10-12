@@ -3,28 +3,38 @@
 </p>
 
 <p align="center">
-  <a href="mailto:30261236@edu.hanbat.ac.kr"><img src="./assets/email.svg" height="32" alt="Email Dabin Kim" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EA%B9%80-0749b043b/"><img src="./assets/linkedin.svg" height="32" alt="LinkedIn profile" /></a>&nbsp;
-  <a href="./assets/Dabin_Kim_CV.pdf"><img src="./assets/cv.svg" height="32" alt="Read my CV" /></a>
+<a href="mailto:30261236@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Email-4065B1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EA%B9%80-0749b043b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="./assets/Dabin_Kim_CV.pdf"><img src="https://img.shields.io/badge/Read%20my%20CV-3E4654?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Read my CV" /></a>
 </p>
 
-<p align="center">
-  <strong>M.S. Researcher @ AIM Lab., Hanbat National University</strong><br />
-  Daejeon, Republic of Korea &nbsp;&middot;&nbsp; Advisor: Prof. Haneol Jang
-</p>
+### Hi, I'm Dabin 👋
 
-I research and develop AI for **understanding visual scenes** and **answering questions with evidence**. My work spans computer vision, remote sensing, and retrieval-augmented generation, from preparing data and designing methods to running controlled experiments.
+I'm an **M.S. researcher at AIM Lab., Hanbat National University**, advised by **Prof. Haneol Jang**. I work on computer vision, remote sensing, and AI that answers questions with evidence.
 
-## Current focus
+I enjoy the full research process: preparing data, exploring ideas, building models, and testing what actually works.
 
-| Vision & remote sensing | Language & knowledge |
-| :--- | :--- |
-| **Single-image building damage assessment**<br />Localizing buildings and estimating damage from a single post-disaster image. | **Evidence-grounded Chat AI**<br />Retrieving cybersecurity policy documents and generating answers with traceable sources. |
-| Foundation models, region-level predictions, and comparative experiments. | Document preprocessing, metadata-aware retrieval, and source attribution. |
+## 🛠️ Tech stack
 
-**Core tools** &nbsp; `Python` `PyTorch` &nbsp; / &nbsp; **Also work with** &nbsp; `C` `C++` `Java`
+**Research & deep learning**
 
-## Selected publications
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+
+**Programming languages**
+
+<img src="https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Java-D27B29?style=for-the-badge" alt="Java" />
+
+## 🔭 Currently exploring
+
+🏘️ **Single-image building damage assessment**  
+Localizing buildings and estimating damage from a single post-disaster image.  
+<sub>September 2026 — Present · AIM Lab.</sub>
+
+💬 **Evidence-grounded Chat AI**  
+Turning cybersecurity policy documents into answers with traceable sources.  
+<sub>2026 — Present · National Security Research Institute</sub>
+
+## 📝 Research & publications
 
 **[TA-OSDet: Text Fusion for Optical-SAR Rotated Object Detection](https://doi.org/10.7471/ikeee.2026.30.1.49)**  
 **Dabin Kim**, Jihwan Moon, Taehoon Kim, Haneol Jang  
@@ -35,7 +45,7 @@ I research and develop AI for **understanding visual scenes** and **answering qu
 <sub><strong><ins>Mathematics &middot; SCIE &middot; IF 2.3 &middot; Top JCR 5.7%</ins></strong> &nbsp;|&nbsp; 2026</sub>
 
 <details>
-<summary><strong>Full publication list &mdash; 5 journal articles, 1 under review, 4 conference papers</strong></summary>
+<summary><strong>📚 All publications · 5 journal articles + 1 under review · 4 conference papers</strong></summary>
 
 ### Journals
 
@@ -87,16 +97,22 @@ Listed chronologically; the manuscript under review follows published work.
 
 </details>
 
-## Experience
+## 🌱 Experience
 
-| Period | Role | Work |
-| :--- | :--- | :--- |
-| May 2022 &ndash; Feb. 2026 | **B.S. Researcher** &middot; AIM Lab. | Face anti-spoofing, zero-shot military object detection, and SAR object detection. |
-| Aug. &ndash; Oct. 2025 | **AI Intern** &middot; Datamaker | Military zero-shot detection, new data collection, and methods to improve detection performance. |
-| Mar. 2026 &ndash; Present | **M.S. Researcher** &middot; AIM Lab. | Single-image building damage assessment and deep learning-based antenna gain prediction. |
+**AIM Lab. · B.S. Researcher**  
+<sub>May 2022 — February 2026</sub>  
+Face anti-spoofing, zero-shot military object detection, and SAR detection.
+
+**Datamaker · AI Intern**  
+<sub>August — October 2025</sub>  
+Collected new imagery and proposed methods to improve military zero-shot detection.
+
+**AIM Lab. · M.S. Researcher**  
+<sub>March 2026 — Present</sub>  
+Building damage assessment, antenna gain prediction, and evidence-grounded AI.
 
 <details>
-<summary><strong>Research projects &mdash; objectives and contributions</strong></summary>
+<summary><strong>🧪 Explore my research projects</strong></summary>
 
 ### 2024
 
@@ -125,46 +141,60 @@ Listed chronologically; the manuscript under review follows published work.
 
 </details>
 
-## Awards
+## 🏅 Awards & competitions
 
-| Year | Recognition | Event |
-| :--- | :--- | :--- |
-| Spring 2024 | **1st Place** | [Image classification (2024 spring)](https://www.kaggle.com/competitions/image-classification-2024-spring/leaderboard) &middot; Hanbat National University undergraduate competition |
-| Jun. 2024 | **Best Paper Award** | Korean Digital Forensics Society, KDFS2024 |
-| Jun. 2024 | **Silver Prize** | SW-univ AI Competition &middot; Fake Audio Detection |
-| Dec. 2025 | **Gold Prize** | 14th Computer Engineering Capstone Design |
-| Dec. 2025 | **Encouragement Award** | KIBME Winter Conference Competition |
+<p>
+<img src="https://img.shields.io/badge/1st%20Place-247BB2?style=flat-square&amp;logo=kaggle&amp;logoColor=white" alt="1st Place" /> <strong><a href="https://www.kaggle.com/competitions/image-classification-2024-spring/leaderboard">Image classification (2024 spring)</a></strong><br />
+<sub>Spring 2024 · Hanbat National University · Undergraduate competition</sub>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Best%20Paper-927047?style=flat-square" alt="Best Paper" /> <strong>Korean Digital Forensics Society</strong><br />
+<sub>June 2024 · KDFS2024</sub>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Silver%20Prize-748295?style=flat-square" alt="Silver Prize" /> <strong>SW-univ AI Competition</strong><br />
+<sub>June 2024 · Fake Audio Detection</sub>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Gold%20Prize-AD802C?style=flat-square" alt="Gold Prize" /> <strong>Computer Engineering Capstone Design</strong><br />
+<sub>December 2025 · 14th Capstone Design Competition</sub>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Encouragement-7D65A8?style=flat-square" alt="Encouragement" /> <strong>KIBME Winter Conference Competition</strong><br />
+<sub>December 2025</sub>
+</p>
+
+## 🎓 Education & teaching
+
+**Hanbat National University · Computer Engineering**
+
+- **B.S.** · March 2022 — 2026  
+  GPA **4.14 / 4.5** · Major **4.2 / 4.5**
+- **M.S.** · March 2026 — Present  
+  GPA **4.5 / 4.5**
 
 <details>
-<summary><strong>Education & teaching</strong></summary>
+<summary><strong>📖 Teaching assistant & languages</strong></summary>
 
-### Education
+- **Artificial Intelligence** · March–June 2026
+- **Computer Vision** · September–December 2026
 
-| Degree | Institution | Period | GPA |
-| :--- | :--- | :--- | :--- |
-| B.S., Computer Engineering | Hanbat National University | Mar. 2022 &ndash; 2026 | **4.14 / 4.5** &middot; Major **4.2 / 4.5** |
-| M.S., Computer Engineering | Hanbat National University | Mar. 2026 &ndash; Present | **4.5 / 4.5** |
+Hanbat National University · Prof. Haneol Jang
 
-Advisor: **Prof. Haneol Jang** &middot; Artificial Intelligence & Media Lab. (AIM Lab.)
-
-### Teaching assistant
-
-- **Artificial Intelligence** &middot; March&ndash;June 2026
-- **Computer Vision** &middot; September&ndash;December 2026
-
-Hanbat National University &middot; Prof. Haneol Jang
-
-### Languages
-
-Korean (native) &middot; English (intermediate)
+**Languages** · Korean (native) · English (intermediate)
 
 </details>
 
 ---
 
 <p align="center">
-  <strong>Let's connect.</strong><br />
-  <a href="mailto:30261236@edu.hanbat.ac.kr">30261236@edu.hanbat.ac.kr</a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EA%B9%80-0749b043b/">LinkedIn</a> &nbsp;&middot;&nbsp;
+  <strong>Thanks for stopping by!</strong><br />
+  <sub>Interested in computer vision or applied AI? Let's connect.</sub><br /><br />
+  <a href="mailto:30261236@edu.hanbat.ac.kr">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EA%B9%80-0749b043b/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="./assets/Dabin_Kim_CV.pdf">Full CV</a>
 </p>
